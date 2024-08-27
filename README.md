@@ -1,2 +1,3 @@
 # TrustedInstaller
 Download at your own risk...
+This app lets you control TrustedInstaller
